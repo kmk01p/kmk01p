@@ -16,7 +16,7 @@
 <br><br>
 
 ### 📊 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?MinkyoungKim=anuraghazra&show_icons=true&theme=radical)
+![Minkyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinkyoungKim-22100090&show_icons=true&theme=radical)
 <br><br>
 
 ### 📫 Connect with Me
