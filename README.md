@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me  
 - 🎓 Undergraduate : HGU Computer Science / Master :    
 
-- 🌱 Currently learning **Java, Spring, and Backend Development** to build robust and scalable systems.
+- 🌱 Currently working in UNESCO UNITWIN 
 <br><br>
 
 ### 🚀 My Expertise
