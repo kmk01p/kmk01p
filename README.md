@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Minkyoung Kim 👋<br></h1>
 <p align="center">
-    My vision is to apply my backend and AI skills to solve real-world problems in international development and humanitarian aid.</p>
+    My vision is to apply my Web Full Stack and AI skills to solve real-world problems in international development and humanitarian aid.</p>
 <br>
 
 ### 👨‍💻 About Me  
