@@ -4,9 +4,13 @@
 <br>
 
 ### 👨‍💻 About Me  
-- 🎓 Undergraduate : HGU Computer Science / Master :    
+*   **Master of International Development Consulting (MIDAC)**
+    *   Kyung Hee University, Graduate School of Pan-Pacific International Studies
+    *   *Expected Graduation: Feb 2027*
+*   **B.S. in AI & Computer Science**
+    *   Handong Global University
 
-- 🌱 Currently working in UNESCO UNITWIN 
+*   **🌱 Currently working in UNESCO UNITWIN**
 <br><br>
 
 ### 🚀 My Expertise
